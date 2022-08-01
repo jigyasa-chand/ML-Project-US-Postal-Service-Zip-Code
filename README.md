@@ -1,4 +1,4 @@
-# ML-Project-US-Postal-Service-Zip-Code
+# ML-Project-US-Postal-Service-Zip-Code and
 Applying SVM to Handwritten digits from the processed US Postal Service Zip Code data set.
 
 
@@ -14,3 +14,9 @@ Part 1: Applied soft-margin SVM to handwritten digits.
 
 
 Part 2:Trained and reported accuracy considering linear, polynomial kernel and radial basis function kernel. Compared all three w.r.t accuracy, Q and C values.
+
+
+
+**********************************************************************************************************************************************************************
+
+
